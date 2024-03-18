@@ -2,7 +2,7 @@
 
 Hi, I'm Panfila. 
 
-An aspiring data analyst based in New York! 
+A data data analyst based in New York! 
 
 I've been:
 - Querying data with SQL
