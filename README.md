@@ -1,4 +1,4 @@
-Hi, I'm Panfila! 
+👋🏻 Hi, I'm Panfila! 
 
 I've been:
 - Querying data with SQL
