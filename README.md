@@ -1,6 +1,6 @@
 ## 👋 Hi! 
 
-Hi, I'm Panfila. 
+Hi, I'm Panfila! 
 
 A data analyst based in New York! 
 
